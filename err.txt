@@ -1,0 +1,2 @@
+2026-10-27 14:16:36.700 Uvicorn server started on :::8501
+2026-10-27 14:16:51.265 `use_column_width` was removed and has no effect. Use `width='stretch'`, `width='content'`, or an integer pixel value instead.
